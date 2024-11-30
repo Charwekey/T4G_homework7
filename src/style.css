@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px black;
+    text-align: center;
+    margin: 50px 100px 50px 90px;
+    align-items: center;
+
+}
+div{
+    background-color: black;
+    
+    border: 2px solid black
+}
+p{
+    font-weight: 500;
+  font-size: x-large; 
+color: white;
+;
+padding: 20px;
+}
